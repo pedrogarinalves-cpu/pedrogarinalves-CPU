@@ -1,16 +1,126 @@
-## Hi there 👋
+# Hi there! 👋 I'm João Pedro
 
-<!--
-**pedrogarinalves-cpu/pedrogarinalves-CPU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Software Development student.
 
-Here are some ideas to get you started:
+💻 Aspiring Backend Java Developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Currently focused on building applications with Java, Spring Boot and MySQL.
+
+---
+
+## 👨‍💻 About Me
+
+- Currently working as a Quality Inspector in the industrial sector.
+- Transitioning into Software Development.
+- Passionate about Backend Development.
+- Studying Java, Spring Boot, Databases and Software Architecture every day.
+
+---
+
+## 🛠 Tech Stack
+
+### Language
+
+- Java
+
+### Backend
+
+- Spring Boot
+- Spring MVC
+- Spring Data JPA
+
+### Database
+
+- MySQL
+- JDBC
+
+### Tools
+
+- Git
+- GitHub
+- Maven
+- IntelliJ IDEA
+- Postman
+
+---
+
+## 📚 Currently Learning
+
+- Docker
+- REST APIs
+- Microservices
+- AWS
+
+---
+
+## 🚀 Projects
+
+### ✈️ Travel Agency API *(In Progress)*
+
+Built with:
+
+- Java
+- Spring Boot
+- Spring Data JPA
+- MySQL
+- Maven
+- Postman
+
+Goal:
+
+Build a complete REST API for managing customers, destinations, reservations and payments.
+
+---
+
+### 💾 JDBC CRUD
+
+A Java project demonstrating how JDBC communicates directly with a relational database.
+
+Built with:
+
+- Java
+- JDBC
+- MySQL
+
+---
+
+### 📖 Object-Oriented Programming
+
+Projects covering:
+
+- Encapsulation
+- Inheritance
+- Polymorphism
+- Interfaces
+- Abstract Classes
+
+---
+
+## 🎯 Career Goal
+
+My goal is to become a Backend Java Developer and contribute to scalable and maintainable software projects.
+
+I'm particularly interested in REST APIs, Backend Architecture, Microservices and Cloud Computing.
+
+---
+
+## 📈 Learning Roadmap
+
+- ✅ Java
+- ✅ Object-Oriented Programming
+- ✅ JDBC
+- ✅ MySQL
+- ✅ Spring Boot
+- 🔄 Docker
+- ⏳ Microservices
+- ⏳ AWS
+
+---
+
+## 📫 Contact
+
+📧 Email
+
+pedrogarinalves@gmail.com
+
+🌎 Brazil
