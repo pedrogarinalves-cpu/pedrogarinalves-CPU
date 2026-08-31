@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2E9EF7¢er=true&vCenter=true&width=600&lines=Aspiring+Backend+Java+Developer;Building+APIs+with+Java+%2B+Spring+Boot;Currently+learning+Docker+%26+Microservices" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=2E9EF7&height=180§ion=header&text=João%20Pedro&fontSize=45&fontColor=ffffff&desc=Aspiring%20Backend%20Java%20Developer&descAlignY=65&descSize=20" alt="Banner do cabeçalho" width="100%" />
 
 </div>
 
