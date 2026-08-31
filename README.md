@@ -1,126 +1,108 @@
-# Hi there! 👋 I'm João Pedro
+<div align="center">
 
-🎓 Software Development student.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2E9EF7¢er=true&vCenter=true&width=600&lines=Aspiring+Backend+Java+Developer;Building+APIs+with+Java+%2B+Spring+Boot;Currently+learning+Docker+%26+Microservices" alt="Typing SVG" />
 
-💻 Aspiring Backend Java Developer.
+</div>
 
-🚀 Currently focused on building applications with Java, Spring Boot and MySQL.
+# Olá! 👋 Sou João Pedro
 
----
-
-## 👨‍💻 About Me
-
-- Currently working as a Quality Inspector in the industrial sector.
-- Transitioning into Software Development.
-- Passionate about Backend Development.
-- Studying Java, Spring Boot, Databases and Software Architecture every day.
+🎓 Estudante de Desenvolvimento de Software.
+💻 Aspirante a desenvolvedor Java Backend.
+🚀 Atualmente, estou focado no desenvolvimento de aplicações com Java, Spring Boot e MySQL.
 
 ---
 
-## 🛠 Tech Stack
+## 👨‍💻 Sobre mim
 
-### Language
+- Atualmente trabalho como Inspetor de Qualidade no setor industrial.
+- Transição para o Desenvolvimento de Software.
+- Apaixonado por desenvolvimento backend.
+- Estudando Java, Spring Boot, Bancos de Dados e Arquitetura de Software diariamente.
 
+---
+
+## 🛠 Conjunto de Tecnologias
+
+### Linguagem
 - Java
 
 ### Backend
-
-- Spring Boot
+- Bota de mola
 - Spring MVC
 - Spring Data JPA
 
-### Database
-
+### Banco de dados
 - MySQL
 - JDBC
 
-### Tools
-
+### Ferramentas
 - Git
 - GitHub
 - Maven
 - IntelliJ IDEA
-- Postman
+- Carteiro
 
 ---
 
-## 📚 Currently Learning
-
+## 📚 Atualmente aprendendo
 - Docker
-- REST APIs
-- Microservices
+- APIs REST
+- Microsserviços
 - AWS
 
 ---
 
-## 🚀 Projects
+## 🚀 Projetos
 
-### ✈️ Travel Agency API *(In Progress)*
-
-Built with:
-
+### 🎟️ API de Gerenciamento de Filas *(Em Andamento)*
+Construído com:
 - Java
-- Spring Boot
-- Spring Data JPA
-- MySQL
+- Bota de mola
 - Maven
-- Postman
 
-Goal:
-
-Build a complete REST API for managing customers, destinations, reservations and payments.
+Meta:
+Desenvolva uma API REST para gerenciar filas de atendimento — os clientes entram na fila, recebem um número de protocolo e os atendentes chamam o próximo da fila. A lógica de domínio foi construída primeiro em Java puro (fila, geração de protocolos, transições de estado) antes de adicionar a camada de API.
 
 ---
 
-### 💾 JDBC CRUD
-
-A Java project demonstrating how JDBC communicates directly with a relational database.
-
-Built with:
-
+### 💾 CRUD JDBC
+Um projeto em Java que demonstra como o JDBC se comunica diretamente com um banco de dados relacional.
+Construído com:
 - Java
 - JDBC
 - MySQL
 
 ---
 
-### 📖 Object-Oriented Programming
-
-Projects covering:
-
-- Encapsulation
-- Inheritance
-- Polymorphism
+### 📖 Programação Orientada a Objetos
+Projetos que abrangem:
+- Encapsulamento
+- Herança
+- Polimorfismo
 - Interfaces
-- Abstract Classes
+- Classes abstratas
 
 ---
 
-## 🎯 Career Goal
-
-My goal is to become a Backend Java Developer and contribute to scalable and maintainable software projects.
-
-I'm particularly interested in REST APIs, Backend Architecture, Microservices and Cloud Computing.
+## 🎯 Objetivo de Carreira
+Meu objetivo é me tornar um desenvolvedor Java Backend e contribuir para projetos de software escaláveis ​​e de fácil manutenção.
+Tenho particular interesse em APIs REST, arquitetura de backend, microsserviços e computação em nuvem.
 
 ---
 
-## 📈 Learning Roadmap
-
+## 📈 Roteiro de Aprendizagem
 - ✅ Java
-- ✅ Object-Oriented Programming
+- ✅ Programação Orientada a Objetos
 - ✅ JDBC
 - ✅ MySQL
-- ✅ Spring Boot
+- ✅ Bota de mola
 - 🔄 Docker
-- ⏳ Microservices
+- ⏳ Microsserviços
 - ⏳ AWS
 
 ---
 
-## 📫 Contact
-
-📧 Email
-
+## 📫 Contato
+📧 E-mail
 pedrogarinalves@gmail.com
-
-🌎 Brazil
+🌎 Brasil
