@@ -16,12 +16,12 @@
 
 - Atualmente trabalho como Inspetor de Qualidade no setor industrial.
 - Transição para o Desenvolvimento de Software.
-- Apaixonado por desenvolvimento backend.
+- Apaixonado por desenvolvimento de back-end.
 - Estudando Java, Spring Boot, Bancos de Dados e Arquitetura de Software diariamente.
 
 ---
 
-## 🛠 Hard Skills
+## 🛠 Conjunto de Tecnologias
 
 ### Linguagem
 - Java
@@ -40,28 +40,42 @@
 - GitHub
 - Maven
 - IntelliJ IDEA
-- Postman
+- Carteiro
 
 ---
 
-## 📚 Atualmente aprendendo
-- Docker
+## 📚 Atualmente
+- SQL 
+- Lógica de programação e algoritmos
+- Spring Security (autenticação com JWT)
 - APIs REST
-- Microsserviços
-- AWS
-
 ---
 
 ## 🚀 Projetos
 
-### 🎟️ API de Gerenciamento de Filas *(Em Andamento)*
+### 🎟️ API de gerenciamento de filas *(v1 concluída)*
 Construído com:
 - Java
-- Spring Boot
+- Bota de mola
+- Spring Data JPA
+- MySQL
+- Maven
+- Carteiro
+
+A lógica de domínio foi construída primeiro em Java puro (fila, geração de senhas, transições de estado), validada com testes manuais, e só depois exposta via API REST. A v1 inclui persistência real com MySQL e tratamento de erros HTTP (códigos de status adequados para cada exceção de domínio). Próximos passos (v2): testes automatizados, CI/CD, Bean Validation e documentação com Swagger.
+
+---
+
+### 🏢 StartupHub *(Em planejamento)*
+Construído com:
+- Java
+- Bota de mola
+- Spring Security (JWT)
+- Spring Data JPA
+- MySQL
 - Maven
 
-Meta:
-Desenvolver uma API REST para gerenciar filas de atendimento — os clientes entram na fila, recebem um número de senha e os atendentes chamam o próximo da fila. A lógica de domínio foi construída primeiro em Java puro (fila, geração de senhas, transições de estado) antes de adicionar a camada de API.
+Plataforma de gestão interna para pequenas startups/equipes de tecnologia: usuários, clientes, projetos e tarefas. Projeto criado para autenticação/autorização e, futuramente, conceitos como multi-tenancy — complementando o aprendizado da Queue Management API com uma camada de segurança que ainda não faz parte do meu portfólio.
 
 ---
 
@@ -75,15 +89,38 @@ Construído com:
 ---
 
 ### 📖 Programação Orientada a Objetos
-Projetos que abrangem:
+Projetos que abram:
 - Encapsulamento
 - Herança
 - Polimorfismo
 - Interfaces
-- Classes abstratas
+- Aulas abstratas
 
 ---
 
 ## 🎯 Objetivo de Carreira
-Meu objetivo é me tornar um desenvolvedor Java Backend e contribuir para projetos de software escaláveis e de fácil manutenção.
+Meu objetivo é me tornar um desenvolvedor Java Backend e contribuir para projetos de software escaláveis ​​e de fácil manutenção.
 Tenho particular interesse em APIs REST, arquitetura de backend, microsserviços e computação em nuvem.
+
+---
+
+## 📈 Roteiro de Aprendizagem
+- ✅ Java
+- ✅ Programação Orientada a Objetos
+- ✅ JDBC
+- ✅ MySQL
+- ✅ Bota de mola
+- ✅ Spring Data JPA
+- 🔄 Spring Security (JWT)
+- 🔄 SQL avançado
+- 🔄 Lógica de programação e algoritmos
+- ⏳ Docker
+- ⏳ Micross
+- ⏳ AWS
+
+---
+
+## 📫 Contato
+📧 E-mail
+pedrogarinalves@gmail.com
+🌎 Brasil
