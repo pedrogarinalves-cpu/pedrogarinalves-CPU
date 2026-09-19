@@ -113,7 +113,6 @@ Tenho particular interesse em APIs REST, arquitetura de backend, microsserviços
 - ✅ Spring Data JPA
 - 🔄 Spring Security (JWT)
 - 🔄 SQL avançado
-- 🔄 Lógica de programação e algoritmos
 - ⏳ Docker
 - ⏳ Micross
 - ⏳ AWS
