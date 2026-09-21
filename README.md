@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=blur&color=0:020617,100:00e5ff&height=180&section=header&text=João%20Pedro&fontSize=45&fontColor=ffffff&desc=Aspiring%20Backend%20Java%20Developer&descAlignY=65&descSize=20&animation=fadeIn" alt="Header banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=blur&color=0:020617,100:00e5ff&height=180§ion=header&text=João%20Pedro&fontSize=45&fontColor=ffffff&desc=Aspiring%20Backend%20Java%20Developer&descAlignY=65&descSize=20&animation=fadeIn" alt="Banner do cabeçalho" width="100%" />
 
 </div>
 
@@ -27,9 +27,10 @@
 - Java
 
 ### Backend
-- Spring Boot
+- Bota de mola
 - Spring MVC
 - Spring Data JPA
+- Spring Security (em estudo)
 
 ### Banco de dados
 - MySQL
@@ -45,10 +46,13 @@
 ---
 
 ## 📚 Atualmente
-- SQL 
-- Lógica de programação e algoritmos
 - Spring Security (autenticação com JWT)
+- SQL avançado
+- Docker
 - APIs REST
+- Microesferas
+- AWS
+
 ---
 
 ## 🚀 Projetos
@@ -66,7 +70,7 @@ A lógica de domínio foi construída primeiro em Java puro (fila, geração de 
 
 ---
 
-### 🏢 StartupHub *(Em planejamento)*
+### 🏢 StartupHub *(Em desenvolvimento inicial)*
 Construído com:
 - Java
 - Bota de mola
@@ -74,8 +78,9 @@ Construído com:
 - Spring Data JPA
 - MySQL
 - Maven
+- Lombok
 
-Plataforma de gestão interna para pequenas startups/equipes de tecnologia: usuários, clientes, projetos e tarefas. Projeto criado para autenticação/autorização e, futuramente, conceitos como multi-tenancy — complementando o aprendizado da Queue Management API com uma camada de segurança que ainda não faz parte do meu portfólio.
+Plataforma de gestão interna para pequenas startups/equipes de tecnologia: usuários, clientes, projetos e tarefas. Projeto criado para autenticação/autorização e, futuramente, conceitos como multi-tenancy — complementando o aprendizado da Queue Management API com uma camada de segurança que ainda não faz parte do meu portfólio. Primeira entidade de domínio (`Usuario`, com papéis de acesso `ADMIN`/`GESTOR`/`MEMBRO`) já inventada; A configuração de autenticação com Spring Security é o próximo passo.
 
 ---
 
