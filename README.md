@@ -1,7 +1,4 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=blur&color=0:020617,100:00e5ff&height=180§ion=header&text=João%20Pedro&fontSize=45&fontColor=ffffff&desc=Aspiring%20Backend%20Java%20Developer&descAlignY=65&descSize=20&animation=fadeIn" alt="Banner do cabeçalho" width="100%" />
-
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=blur&color=0:020617,100:00e5ff&height=180&section=header&text=João%20Pedro&fontSize=45&fontColor=ffffff&desc=Aspiring%20Backend%20Java%20Developer&descAlignY=65&descSize=20&animation=fadeIn" alt="Header banner" width="100%" /> </div>
 </div>
 
 # Olá! 👋 Sou João Pedro
