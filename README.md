@@ -18,13 +18,14 @@
 
 ---
 
+
 ## 🛠 Conjunto de Tecnologias
 
 ### Linguagem
 - Java
 
 ### Backend
-- Bota de mola
+- Spring Boot
 - Spring MVC
 - Spring Data JPA
 - Spring Security (em estudo)
@@ -33,12 +34,17 @@
 - MySQL
 - JDBC
 
+### Testes
+- JUnit 5
+- Mockito
+
 ### Ferramentas
 - Git
 - GitHub
 - Maven
 - IntelliJ IDEA
-- Carteiro
+- Postman
+
 
 ---
 
