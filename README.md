@@ -76,9 +76,6 @@ Construído com:
 - Maven
 - Carteiro
 
-- 
-![CI](https://github.com/pedrogarinalves-cpu/API-Gestao-De-Fila-De-Atendimento/actions/workflows/ci.yml/badge.svg)
-
 A lógica de domínio foi construída primeiro em Java puro (fila, geração de senhas, transições de estado), validada com testes manuais, e só depois exposta via API REST. A v1 inclui persistência real com MySQL e tratamento de erros HTTP. A v2, em andamento, já conta com cobertura completa de testes automatizados (JUnit + Mockito) e integração contínua com GitHub Actions rodando os testes a cada push. Bean Validation e documentação com Swagger seguem os próximos passos.
 
 ---
