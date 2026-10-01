@@ -4,139 +4,137 @@
 
 
 </div>
+# Hello! 👋 I'm João Pedro
 
-# Olá! 👋 Sou João Pedro
-
-🎓 Estudante de Desenvolvimento de Software.
-💻 Aspirante a desenvolvedor Java Backend.
-🚀 Atualmente, estou focado no desenvolvimento de aplicações com Java, Spring Boot e MySQL.
-
----
-
-## 👨‍💻 Sobre mim
-
-- Atualmente trabalho como Inspetor de Qualidade no setor industrial.
-- Transição para o Desenvolvimento de Software.
-- Apaixonado por desenvolvimento de back-end.
-- Estudando Java, Spring Boot, Bancos de Dados e Arquitetura de Software diariamente.
+🎓 Software Development student.
+💻 Aspiring Java Backend Developer.
+🚀 Currently focused on building applications with Java, Spring Boot, and MySQL.
 
 ---
 
-## 🛠 Conjunto de Tecnologias
+## 👨‍💻 About Me
 
-### Linguagem
+- I currently work as a Quality Inspector in the industrial sector.
+- Transitioning into Software Development.
+- Passionate about backend development.
+- Studying Java, Spring Boot, Databases, and Software Architecture every day.
+
+---
+
+## 🛠 Tech Stack
+
+### Language
 - Java
 
 ### Backend
-- Bota de mola
+- Spring Boot
 - Spring MVC
 - Spring Data JPA
-- Spring Security (em estudo)
+- Spring Security (in progress)
 
-### Banco de dados
+### Database
 - MySQL
 - JDBC
 
-### Testes
+### Testing
 - JUnit 5
 - Mockito
 
 ### DevOps
 - GitHub Actions (CI)
 
-### Ferramentas
+### Tools
 - Git
 - GitHub
 - Maven
 - IntelliJ IDEA
-- Carteiro
+- Postman
 
 ---
 
-## 📚 Atualmente
-- Spring Security (autenticação com JWT)
-- SQL avançado
+## 📚 Currently Learning
+- Spring Security (JWT authentication)
+- Advanced SQL
 - Docker
-- APIs REST
-- Microesferas
+- REST APIs
+- Microservices
 - AWS
 
 ---
 
-## 🚀 Projetos
+## 🚀 Projects
 
-### 🎟️ API de gerenciamento de filas *(v1 concluída, v2 em andamento)*
-Construído com:
+### 🎟️ Queue Management API *(v1 completed, v2 in progress)*
+Built with:
 - Java
-- Bota de mola
+- Spring Boot
 - Spring Data JPA
 - MySQL
 - JUnit 5 / Mockito
-- Ações do GitHub
+- GitHub Actions
 - Maven
-- Carteiro
+- Postman
 
-A lógica de domínio foi construída primeiro em Java puro (fila, geração de senhas, transições de estado), validada com testes manuais, e só depois exposta via API REST. A v1 inclui persistência real com MySQL e tratamento de erros HTTP. A v2, em andamento, já conta com cobertura completa de testes automatizados (JUnit + Mockito) e integração contínua com GitHub Actions rodando os testes a cada push. Bean Validation e documentação com Swagger seguem os próximos passos.
+The domain logic was built first in pure Java (queue, ticket generation, state transitions), validated with manual tests, and only then exposed through a REST API. v1 includes real persistence with MySQL and HTTP error handling. v2, currently in progress, already has full automated test coverage (JUnit + Mockito) and continuous integration with GitHub Actions running the tests on every push. Bean Validation and Swagger documentation are the next steps.
 
 ---
 
-### 🏢 StartupHub *(Em desenvolvimento inicial)*
-Construído com:
+### 🏢 StartupHub *(Early development)*
+Built with:
 - Java
-- Bota de mola
+- Spring Boot
 - Spring Security (JWT)
 - Spring Data JPA
 - MySQL
 - Maven
 - Lombok
 
-Plataforma de gestão interna para pequenas startups/equipes de tecnologia: usuários, clientes, projetos e tarefas. Projeto criado para autenticação/autorização e, futuramente, conceitos como multi-tenancy — complementando o aprendizado da Queue Management API com uma camada de segurança que ainda não faz parte do meu portfólio.
+An internal management platform for small startups/tech teams: users, clients, projects, and tasks. This project was created to explore authentication/authorization and, in the future, concepts such as multi-tenancy — complementing what I learned in the Queue Management API with a security layer that is not yet part of my portfolio.
 
 ---
 
-### 💾 CRUD JDBC
-Um projeto em Java que demonstra como o JDBC se comunica diretamente com um banco de dados relacional.
-Construído com:
+### 💾 JDBC CRUD
+A Java project that demonstrates how JDBC communicates directly with a relational database.
+Built with:
 - Java
 - JDBC
 - MySQL
 
 ---
 
-### 📖 Programação Orientada a Objetos
-Projetos que abram:
-- Encapsulamento
-- Herança
-- Polimorfismo
+### 📖 Object-Oriented Programming
+Projects covering:
+- Encapsulation
+- Inheritance
+- Polymorphism
 - Interfaces
-- Aulas abstratas
+- Abstract classes
 
 ---
 
-## 🎯 Objetivo de Carreira
-Meu objetivo é me tornar um desenvolvedor Java Backend e contribuir para projetos de software escaláveis ​​e de fácil manutenção.
-Tenho particular interesse em APIs REST, arquitetura de backend, microsserviços e computação em nuvem.
+## 🎯 Career Goal
+My goal is to become a Java Backend Developer and contribute to scalable, maintainable software projects.
+I am particularly interested in REST APIs, backend architecture, microservices, and cloud computing.
 
 ---
 
-## 📈 Roteiro de Aprendizagem
+## 📈 Learning Roadmap
 - ✅ Java
-- ✅ Programação Orientada a Objetos
+- ✅ Object-Oriented Programming
 - ✅ JDBC
 - ✅ MySQL
-- ✅ Bota de mola
+- ✅ Spring Boot
 - ✅ Spring Data JPA
-- ✅ JUnit/Mockito (testes automatizados)
-- ✅ CI com GitHub Actions
+- ✅ JUnit/Mockito (automated testing)
+- ✅ CI with GitHub Actions
 - 🔄 Spring Security (JWT)
-- 🔄 SQL avançado
+- 🔄 Advanced SQL
 - ⏳ Docker
-- ⏳ Micross
+- ⏳ Microservices
 - ⏳ AWS
 
 ---
 
-## 📫 Contato
-📧 E-mail
-pedrogarinalves@gmail.com
-🌎 Brasil
+## 📫 Contact
+📧 Email: pedrogarinalves@gmail.com
+🌎 Brazil
